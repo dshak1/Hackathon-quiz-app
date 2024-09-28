@@ -26,4 +26,7 @@ def get_random_question():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True) 
+
+
+#yn
